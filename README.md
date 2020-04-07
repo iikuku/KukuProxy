@@ -3,7 +3,7 @@ It's a simple C# socks5 proxy
 
 ## How to use
 ### 1. Copy server.cs and ProxyInfo.cs  to your project
-### 2. writing some code to new and start the server like this:
+### 2. Writing some codes to new and start the server like this:
 ```
 Server proxy = new Server();
 proxy.Port = 1234;
